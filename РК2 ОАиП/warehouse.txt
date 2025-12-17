@@ -1,0 +1,6 @@
+Vegetable;Carrot;2025-05-01;1.2;Root-41;FarmA|FarmB
+Vegetable;Potato;2025-04-10;2.0;Tuber-77;FarmC
+Dairy;Milk;2025-02-25;1.0;3.2-Protein3;DairyFarm1
+Dairy;Cheese;2025-08-15;0.5;45-Protein25;DairyFarm2|DairyFarm3
+Vegetable;Tomato;2025-03-20;0.8;Fruit-18;FarmA
+Vegetable;Corn;2025-07-10;1.5;Grain-96;FarmD|FarmE
